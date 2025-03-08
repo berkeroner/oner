@@ -1,8 +1,5 @@
 
-	//	Berker ÖNER 150122018
-	
-		/*		Ýç içe parantezli yapmak için yazdýðým kodda doðru sonucu bulamýyorum. 3. inputla yapýlan iþlemde sonuç 23 yerine 6 ya da 12 çýkýyor. 
-			Bu yüzden parantezli iþlemlerde iþlem önceliðini yapamadým. 																				*/
+	//	Berker Ã–NER 150122018
 		
 
 #include <stdio.h>
