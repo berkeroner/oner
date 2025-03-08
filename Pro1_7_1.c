@@ -1,8 +1,5 @@
 
-	//	Berker ÖNER 150122018
-	
-		/*		Değerlerin medyanlarını hesaplayabildim fakat yazdırırken bir kayma oldu ve bunu çözemedim.
-			Çıktıda değerler farklı olmuyor sadece bir medyanın çıktısı farklı satırda oluyor.				*/
+	//	Berker Ã–NER 150122018
 
 
 #include <stdio.h>
